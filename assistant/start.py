@@ -1,9 +1,9 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 
 from datetime import datetime
 
@@ -23,7 +23,7 @@ Owner_info_msg = f"""
 
 <strong>Message Forwards</strong> - {udB.get("PMBOT")}
 
-<stong>Ultroid <a href=https://github.com/TeamUltroid/Ultroid>[v{ultroid_version}]</a>, powered by @TeamUltroid</strong>
+<stong>Ultroid <a href=https://github.com/TeamFussion/Dark-Fussion>[v{ultroid_version}]</a>, powered by @Dark-Fussion</strong>
 """
 
 _settings = [
