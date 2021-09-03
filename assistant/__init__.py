@@ -1,9 +1,10 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
+
 
 from pyUltroid import *
 from pyUltroid.dB.database import Var
