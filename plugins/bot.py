@@ -1,9 +1,8 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 """
 ✘ Commands Available
 
@@ -11,7 +10,7 @@
     Check if your bot is working.
 
 • `{i}ping`
-    Check Ultroid's response time.
+    Check Đ₳Ɽ₭ Ƒմʂʂìօղ's response time.
 
 • `{i}cmds`
     View all plugin names.
