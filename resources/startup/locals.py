@@ -1,10 +1,10 @@
 # /usr/bin/python3
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # Please read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-fussion/blob/main/LICENSE/>.
 
 # Standalone file for facilitating local deploys.
 
@@ -26,13 +26,13 @@ def start():
     check_for_py()
 
     print(f"{a}\n\n")
-    print("Welcome to Ultroid, lets start setting up!\n\n")
+    print("Welcome to Đ₳Ɽ₭ Ƒմʂʂìօղ, lets start setting up!\n\n")
     print("Cloning the repository...\n\n")
     try:
         os.system("rm -rf Ultroid")
     except BaseException:
         pass
-    os.system("git clone https://github.com/TeamUltroid/Ultroid")
+    os.system("git clone https://github.com/TeamFussion/Dark-Fussion")
     print("\n\nDone")
     os.chdir("Ultroid")
     clear_screen()
@@ -71,7 +71,7 @@ def start():
     print(all_done)
     isitdone = input("\n\nIs it all correct? [y/n]")
     if isitdone == "y":
-        # https://github.com/TeamUltroid/Ultroid/blob/31b9eb1f4f8059e0ae66adb74cb6e8174df12eac/resources/startup/locals.py#L35
+        # https://github.com/TeamFussion/Dark-Fussion/blob/31b9eb1f4f8059e0ae66adb74cb6e8174df12eac/resources/startup/locals.py#L35
         f = open(".env", "w")
         f.write(all_done)
         f.close
@@ -79,7 +79,7 @@ def start():
         print("Oh, let's redo these then -_-")
         start()
     else:
-        # https://github.com/TeamUltroid/Ultroid/blob/31b9eb1f4f8059e0ae66adb74cb6e8174df12eac/resources/startup/locals.py#L35
+        # https://github.com/TeamFussion/Dark-Fussion/blob/31b9eb1f4f8059e0ae66adb74cb6e8174df12eac/resources/startup/locals.py#L35
         f = open(".env", "w")
         f.write(all_done)
         f.close
