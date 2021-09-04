@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
+# PLease read the GNU Affero General Public License in <https://www.github.com/TeamFussion/Dark-fussion/blob/main/LICENSE/>.
 
 
 echo "
@@ -12,7 +12,7 @@ echo "
             ┃┃┃┗┫┏┫┏┫╋┃┃╋┃
             ┗━┻━┻━┻┛┗━┻┻━┛
 
-      Visit @TheUltroid for updates!!
+      Visit @DarkFussion for updates!!
 
 "
 
