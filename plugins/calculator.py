@@ -1,9 +1,8 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 """
 ✘ Commands Available -
 
@@ -51,7 +50,7 @@ async def _(e):
     tultd = [Button.inline(f"{x}", data=f"calc{x}") for x in m]
     lst = list(zip(tultd[::4], tultd[1::4], tultd[2::4], tultd[3::4]))
     lst.append([Button.inline("=", data="calc=")])
-    calc = e.builder.article("Calc", text="• Ultroid Inline Calculator •", buttons=lst)
+    calc = e.builder.article("Calc", text="• Đ₳Ɽ₭ Ƒմʂʂìօղ Inline Calculator •", buttons=lst)
     await e.answer([calc])
 
 
@@ -62,7 +61,7 @@ async def _(e):
     if x == "AC":
         udB.delete("calc")
         return await e.edit(
-            "• Ultroid Inline Calculator •",
+            "• Đ₳Ɽ₭ Ƒմʂʂìօղ Inline Calculator •",
             buttons=[Button.inline("Open Calculator Again", data="recalc")],
         )
     elif x == "C":
@@ -138,4 +137,4 @@ async def _(e):
     tultd = [Button.inline(f"{x}", data=f"calc{x}") for x in m]
     lst = list(zip(tultd[::4], tultd[1::4], tultd[2::4], tultd[3::4]))
     lst.append([Button.inline("=", data="calc=")])
-    await e.edit("Noice Inline Calculator", buttons=lst)
+    await e.edit("ཞ𝔼𝔻 𝕎𝔸ℝℙ Inline Calculator", buttons=lst)
