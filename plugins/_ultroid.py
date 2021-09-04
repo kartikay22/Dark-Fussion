@@ -1,19 +1,18 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 from telethon.errors import ChatSendInlineForbiddenError
 from telethon.errors.rpcerrorlist import BotMethodInvalidError as bmi
 
 from . import *
 
 REPOMSG = """
-• **ULTROID USERBOT** •\n
-• Repo - [Click Here](https://github.com/TeamUltroid/Ultroid)
-• Addons - [Click Here](https://github.com/TeamUltroid/UltroidAddons)
-• Support - @UltroidSupport
+• **Đ₳Ɽ₭ Ƒմʂʂìօղ** •\n
+• Repo - [Click Here](https://github.com/TeamFussion/Dark-Fussion)
+• Addons - [Click Here](https://github.com/TeamFussion/UltroidAddons)
+• Support - @DarkFussion
 """
 
 
