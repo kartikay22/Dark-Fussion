@@ -1,15 +1,15 @@
 #!/usr/bin/env bash
-# Ultroid - UserBot
+# Dark Fussion - UserBot
 # Copyright (C) 2021 TeamUltroid
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
-# PLease read the GNU Affero General Public License in <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# This file is a part of < https://github.com/TeamFussion/DarkFussion/ >
+# PLease read the GNU Affero General Public License in <https://www.github.com/TeamFussion/DarkFussion/blob/main/LICENSE/>.
 
 clear
 echo -e "\e[1m"
 echo "  _    _ _ _             _     _ "
 echo " | |  | | | |           (_)   | |"
-echo " | |  | | | |_ _ __ ___  _  __| |"
+echo " | |  | | | |_ _ __ ___  _  __| |"  
 echo " | |  | | | __| '__/ _ \| |/ _  |"
 echo " | |__| | | |_| | | (_) | | (_| |"
 echo "  \____/|_|\__|_|  \___/|_|\__,_|"
@@ -26,7 +26,7 @@ apt-get update
 apt-get upgrade -y
 pkg upgrade -y
 pkg install python wget -y
-wget https://raw.githubusercontent.com/TeamUltroid/ultroid/main/resources/session/ssgen.py
+wget https://raw.githubusercontent.com/Teamfussion/Dark-fussion/main/resources/session/ssgen.py
 pip install telethon pyrogram
 clear
 python3 ssgen.py
