@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
 #
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# This file is a part of < https://github.com/TeamFussion/dark-fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-fussion/blob/main/LICENSE/>.
 
 import os
 from time import sleep
@@ -80,7 +80,7 @@ def telethon_session():
             print("Generating a user session for Ultroid...")
             ult = ultroid.send_message(
                 "me",
-                f"**ULTROID** `SESSION`:\n\n`{ultroid.session.save()}`\n\n**Do not share this anywhere!**",
+                f"**Dark-Fussion** `SESSION`:\n\n`{ultroid.session.save()}`\n\n**Do not share this anywhere!**",
             )
             print(
                 "Your SESSION has been generated. Check your telegram saved messages!"
