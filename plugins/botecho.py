@@ -1,14 +1,13 @@
-# Ultroid - UserBot
-# Copyright (C) 2021 TeamUltroid
-#
-# This file is a part of < https://github.com/TeamUltroid/Ultroid/ >
+# Dark Fussion - UserBot
+# Copyright (C) 2021 TeamFussion
+# This file is a part of < https://github.com/TeamFussion/Dark-Fussion/ >
 # PLease read the GNU Affero General Public License in
-# <https://www.github.com/TeamUltroid/Ultroid/blob/main/LICENSE/>.
+# <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 
 """
 ✘ Commands Available -
 
-• `{i}botecho text (optional -\n[button_text_1](https://t.me/TheUltroid)\n[button_text_2](https://t.me/TeamUltroid))`
+• `{i}botecho text (optional -\n[button_text_1](https://t.me/DarkFussion)\n[button_text_2](https://t.me/DarkFussion))`
    Send a message from your assistant bot.
 """
 
@@ -48,7 +47,7 @@ async def button_parser(event):
     except IndexError:
         return await eor(
             event,
-            f"**Please give some text!**\n**Format:** `{hndlr}botecho text \n[button_text_1](https://t.me/TheUltroid)\n[button_text_2](https://t.me/TeamUltroid)`",
+            f"**Please give some text!**\n**Format:** `{hndlr}botecho text \n[button_text_1](https://t.me/darkFussion)\n[button_text_2](https://t.me/DarkFussion)`",
         )
     text, buttons = generate_url_button(text)
     try:
