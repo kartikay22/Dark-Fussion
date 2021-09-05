@@ -11,7 +11,7 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # clone the repo and change workdir
 RUN git clone https://github.com/TeamFussion/Dark-Fussion.git /root/TeamFussion/
-WORKDIR /root/TeamUltroid/
+WORKDIR /root/TeamFussion/
 
 # install main requirements.
 COPY requirements.txt /deploy/
