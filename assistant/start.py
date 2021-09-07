@@ -23,7 +23,7 @@ Owner_info_msg = f"""
 
 <strong>Message Forwards</strong> - {udB.get("PMBOT")}
 
-<stong>Ultroid <a href=https://github.com/TeamFussion/Dark-Fussion>[v{ultroid_version}]</a>, powered by @Dark-Fussion</strong>
+<stong>Đ₳Ɽ₭ Ƒմʂʂìօղ <a href=https://github.com/TeamFussion/Dark-Fussion>[v{ultroid_version}]</a>, powered by @Dark-Fussion</strong>
 """
 
 _settings = [
@@ -85,7 +85,7 @@ async def ultroid(event):
                 if udB.get("PMBOT") == "True":
                     ok = "You can contact my master using this bot!!\n\nSend your Message, I will Deliver it To Master."
                 await event.reply(
-                    f"Hey there [{get_display_name(u)}](tg://user?id={u.id}), this is Ultroid Assistant of [{ultroid_bot.me.first_name}](tg://user?id={ultroid_bot.uid})!\n\n{ok}",
+                    f"Hey there [{get_display_name(u)}](tg://user?id={u.id}), this is Đ₳Ɽ₭ Ƒմʂʂìօղ of [{ultroid_bot.me.first_name}](tg://user?id={ultroid_bot.uid})!\n\n{ok}",
                     buttons=[Button.inline("Info.", data="ownerinfo")],
                 )
             else:
