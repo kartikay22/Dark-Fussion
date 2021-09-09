@@ -9,9 +9,9 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/TeamUltroid/Ultroid",
-    "website": "https://ultroid.tech",
-    "success_url": "https://t.me/TheUltroid",
+    "repository": "https://github.com/TeamFussion/Dark-Fussion",
+    "website": "https://t.me/DarkFussion",
+    "success_url": "https://t.me/DarkFussion",
     "stack": "container",
     "env": {
         "API_ID": {
