@@ -137,4 +137,4 @@ async def _(e):
     tultd = [Button.inline(f"{x}", data=f"calc{x}") for x in m]
     lst = list(zip(tultd[::4], tultd[1::4], tultd[2::4], tultd[3::4]))
     lst.append([Button.inline("=", data="calc=")])
-    await e.edit("ཞ𝔼𝔻 𝕎𝔸ℝℙ Inline Calculator", buttons=lst)
+    await e.edit(" Đ₳Ɽ₭ Ƒմʂʂìօղ Inline Calculator", buttons=lst)
