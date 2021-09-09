@@ -23,7 +23,7 @@ Owner_info_msg = f"""
 
 <strong>Message Forwards</strong> - {udB.get("PMBOT")}
 
-<stong>Đ₳Ɽ₭ Ƒմʂʂìօղ <a href=https://github.com/TeamFussion/Dark-Fussion>[v{ultroid_version}]</a>, powered by @Dark-Fussion</strong>
+<stong>Đ₳Ɽ₭ Ƒմʂʂìօղ <a href=https://github.com/TeamFussion/Dark-Fussion>[v{ultroid_version}]</a>, powered by @DarkFussion</strong>
 """
 
 _settings = [
@@ -124,7 +124,7 @@ async def ultroid(event):
 @owner
 async def botstat(event):
     ok = len(get_all_users())
-    msg = """Ultroid Assistant - Stats
+    msg = ""Fussion Assistant - Stats
 Total Users - {}""".format(
         ok,
     )
