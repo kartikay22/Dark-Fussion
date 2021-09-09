@@ -1,7 +1,9 @@
 
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/Akki_ThePro">Akshat 🇮🇳</a></b></h2>
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/Red_warp"> ཞ𝔼𝔻 𝕎𝔸ℝℙ 🇮🇳</a></b></h2>
 <br>
-* UserBot - Arjv3n
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/Akki_ThePro">Akshat 🇮🇳</a></b></h2>
+<br
+* UserBot - Đ₳Ɽ₭ Ƒմʂʂìօղ
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
 
 
@@ -44,7 +46,7 @@
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAkshat7678%2FAvjes-UserBot&template=https%3A%2F%2Fgithub.com%2FAkshat7678%2FAvjes-UserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTeamFussion%2FDark-Fussion&template=https%3A%2F%2Fgithub.com%2FTeamFussion%2FDarkFussion)
 
  
 ## Necessary Variables
