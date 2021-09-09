@@ -1,50 +1,52 @@
-<p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
-</p>
-<h1 align="center">
-  <b>Ultroid - UserBot</b>
-</h1>
 
+<h2 align="center"><b>Owner: <a href="https://telegram.dog/Akki_ThePro">Akshat 🇮🇳</a></b></h2>
+<br>
+* UserBot - Arjv3n
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
 
-[![Stars](https://img.shields.io/github/stars/TeamUltroid/Ultroid?style=flat-square&color=yellow)](https://github.com/TeamUltroid/Ultroid/stargazers)
-[![Forks](https://img.shields.io/github/forks/TeamUltroid/Ultroid?style=flat-square&color=orange)](https://github.com/TeamUltroid/Ultroid/fork)
-[![Size](https://img.shields.io/github/repo-size/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/)   
-[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamUltroid/Ultroid/graphs/commit-activity)
-[![Docker Pulls](https://img.shields.io/docker/pulls/programmingerror/ultroid?style=flat-square)](https://img.shields.io/docker/pulls/programmingerror/ultroid?style=flat-square)
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamUltroid/Ultroid)   
-[![Contributors](https://img.shields.io/github/contributors/TeamUltroid/Ultroid?style=flat-square&color=green)](https://github.com/TeamUltroid/Ultroid/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/TeamUltroid/Ultroid/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/Teamultroid/Ultroid.svg)](https://stars.medv.io/TeamUltroid/Ultroid)
 
-----
+* [![Stars](https://img.shields.io/github/stars/TeamFussion/Dark-Fussion?style=flat-square&color=yellow)](https://github.com/TeamFussion/Dark-Fussion/stargazers)
+* [![Forks](https://img.shields.io/github/forks/TeamFussion/Dark-Fussion?style=flat-square&color=orange)](https://github.com/TeamFussion/Dark-Fussion/fork)
+* [![Size](https://img.shields.io/github/repo-size/TeamFussion/Dark-Fussion?style=flat-square&color=green)](https://github.com/TeamFussion/Dark-Fussion/)   
+* [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+* [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/TeamFussion/Dark-Fussion/graphs/commit-activity)
+* [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/TeamFussion/Dark-Fussion)   
+* [![Contributors](https://img.shields.io/github/contributors/TeamFussion/Dark-Fussion?style=flat-square&color=green)](https://github.com/TeamFussion/Dark-Fussion/graphs/contributors)
+* [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+* [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Akshat7678/Arjv3n-userbot/blob/main/LICENSE)
+* <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
+* <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
+* <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
+* <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
+* <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
+* <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
+* <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
+* <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
+* <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
+* <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
+* <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code> 
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&layout=compact&theme=radical)](https://github.com/Akshat7678/Avjes-TheUserbot)
 
-# Deploy
-- [Heroku](#Deploy-to-Heroku)
-- [Local Machine](#Deploy-Locally)
-- [Railway](#Deploy-to-Railway)
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> 
+
+## Telegram 🏪
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DarkFussion)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DarkFussion_Chat)
 
 # Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Ultroid-blue)](http://ultroid.tech/)
+[![Documentation](https://img.shields.io/badge/Documentation-Eletvps-blue)](http://t.me/EletvpsGithubUpdates)
 
-# Tutorial 
-- Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://www.youtube.com/watch?v=9wF7k9qA0Q4)
-
+## YouTube 📺
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxNJXtYNaIIQTg3_TBhge2A?style=social)](https://www.youtube.com/results?search_query=Akki+ThePro047)
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
 ---
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamFussion/Dark-Fussion)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FAkshat7678%2FAvjes-UserBot&template=https%3A%2F%2Fgithub.com%2FAkshat7678%2FAvjes-UserBot)
 
-## Deploy to Railway
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTeamUltroid%2FUltroid%2Ftree%2Fmain&plugins=redis&envs=SESSION%2CAPI_ID%2CAPI_HASH&optionalEnvs=API_ID%2CAPI_HASH&SESSIONDesc=Your+telethon+session+string.&API_IDDesc=api_id%2C+from+my.telegram.org&API_HASHDesc=api_hash%2C+from+my.telegram.org)
-
+ 
 ## Necessary Variables
 - `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
 - `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
@@ -53,23 +55,26 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
 
 ## Session String
-Different ways to get your `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](https://replit.com/@TeamUltroid/UltroidStringSession)
-* Linux : `bash -c "$(curl -fsSL https://git.io/JY9JI)"`
-* PowerShell : `cd desktop ; wget https://git.io/JY9JI ; python ultroid.py`
-* Termux : `sh -c "$(curl -fsSL https://da.gd/termux-tel)"`
-* TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
+`SESSION`:
+* [![Run on Repl.it](https://replit.com/badge/github/TeamHumanoid/Humanoid)](https://replit.com/@Noob-Stranger/HumanoidStringSession#main.py)
 
-Made with 💕 by [@TeamFussion](https://t.me/DarkFussion). <br />
+Made with 💕 by [@TheEletvps](https://t.me/TheEletvps). <br />
 
 # License
-Dark Fussion is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+Eletvps is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
-# Credits
-* [![TeamUltroid-Devs](https://img.shields.io/static/v1?label=Teamultroid&message=devs&color=critical)](https://t.me/UltroidDevs)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
-* [Dan](https://github.com/delivrance) for [Pyrogram.](https://github.com/pyrogram/pyrogram)
-* [Pytgcalls](https://github.com/pytgcalls) for [PyTgCalls.](https://github.com/pytgcalls/pytgcalls)
+----
+
+# Deploy
+- [Heroku](#Deploy-to-Heroku)
+- [Local Machine](#Deploy-Locally)
+- [Railway](#Deploy-to-Railway)
+## Necessary Variables
+- `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
+- `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
+- `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
+- `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
+- `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
 
