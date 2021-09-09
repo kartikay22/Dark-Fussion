@@ -5,6 +5,7 @@
 # PLease read the GNU Affero General Public License in
 # <https://www.github.com/TeamFussion/Dark-Fussion/blob/main/LICENSE/>.
 
+
 """
 ✘ Commands Available -
 • `{i}update`
