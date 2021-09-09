@@ -24,7 +24,7 @@
 * <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
 * <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
 * <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code> 
-* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&layout=compact&theme=radical)](https://github.com/Akshat7678/Avjes-TheUserbot)
+* [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&layout=compact&theme=radical)](https://github.com/TeamFussion/Dark-Fussion)
 
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=blue&show_icon=true' width='500"'></p> 
 
