@@ -60,7 +60,7 @@ U_WARNS = {}
 if Redis("PMPIC"):
     PMPIC = Redis("PMPIC")
 else:
-    PMPIC = "resources/extras/teamultroid.jpg"
+    PMPIC = "https://telegra.ph/file/15a227a1db39c5fef05f5.jpg"
 
 UND = get_string("pmperm_1")
 
