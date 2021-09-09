@@ -26,7 +26,7 @@
 * <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code> 
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&layout=compact&theme=radical)](https://github.com/Akshat7678/Avjes-TheUserbot)
 
-<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=midnight-purple&show_icon=true' width='500"'></p> 
+<p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=blue&show_icon=true' width='500"'></p> 
 
 ## Telegram 🏪
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DarkFussion)
