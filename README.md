@@ -1,7 +1,6 @@
-
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/Red_warp"> ཞ𝔼𝔻 𝕎𝔸ℝℙ 🇮🇳</a></b></h2>
+* <h2 align="center"><b>Owner: <a href="https://telegram.dog/Red_warp"> ཞ𝔼𝔻 𝕎𝔸ℝℙ 🇮🇳</a></b></h2>
 <br>
-<h2 align="center"><b>Owner: <a href="https://telegram.dog/Akki_ThePro">Akshat 🇮🇳</a></b></h2>
+* <h2 align="center"><b>Owner 2.0: <a href="https://telegram.dog/Akki_ThePro">Akshat 🇮🇳</a></b></h2>
 <br
 * UserBot - Đ₳Ɽ₭ Ƒմʂʂìօղ
 <b>A stable pluggable Telegram userbot + vc music bot, based on Telethon.</b>   
