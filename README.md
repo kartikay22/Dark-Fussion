@@ -46,13 +46,12 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
  
 ## Necessary Variables
-```
 - `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
 - `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
 - `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
-```
+
 ## Session String
 `SESSION`:
 * [![Run on Repl.it](https://replit.com/badge/github/TeamFussion/Dark-Fussion)](https://replit.com/@AkshatKumar6/DarkFussion-String#main.py)
@@ -70,10 +69,3 @@ DarkFussion is licensed under [GNU Affero General Public License](https://www.gn
 - [Heroku](#Deploy-to-Heroku)
 - [Local Machine](#Deploy-Locally)
 - [Railway](#Deploy-to-Railway)
-## Necessary Variables
-- `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
-- `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
-- `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
-- `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
-- `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
-
