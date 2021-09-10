@@ -17,7 +17,7 @@ from threading import Thread
 from . import *
 
 
-# Ultroid
+# Đ₳Ɽ₭ Ƒմʂʂìօղ
 async def evalJs(
     event,
     startTime: float,
