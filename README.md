@@ -13,17 +13,17 @@
 * [![Contributors](https://img.shields.io/github/contributors/TeamFussion/Dark-Fussion?style=flat-square&color=green)](https://github.com/TeamFussion/Dark-Fussion/graphs/contributors)
 * [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 * [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Akshat7678/Arjv3n-userbot/blob/main/LICENSE)
-* <code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
-* <code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
-* <code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
-* <code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
-* <code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
-* <code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
-* <code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
-* <code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
-* <code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
-* <code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
-* <code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code> 
+<code><a href="https://git-scm.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a></code>
+<code><a href="https://www.python.org/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </a></code>
+<code><a href="https://heroku.com/" target="_blank"> <img width="20%"   src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </a></code>
+<code><a href="https://www.mysql.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a></code>
+<code><a href="https://redis.io/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"> </a></code>
+<code><a href="https://firebase.google.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </a></code>
+<code><a href="https://github.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> </a></code>
+<code><a href="https://gitlab.com/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"> </a></code>
+<code><a href="https://www.postgresql.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> </a></code>
+<code><a href="https://telegram.org/" target="_blank"> <img width="20%"  src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"> </a></code> 
 * [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat7678&layout=compact&theme=radical)](https://github.com/TeamFussion/Dark-Fussion)
 
 <p align='middle'><img src='https://github-readme-streak-stats.herokuapp.com/?user=Akshat7678&theme=blue&show_icon=true' width='500"'></p> 
@@ -58,7 +58,7 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 `SESSION`:
 * [![Run on Repl.it](https://replit.com/badge/github/TeamFussion/Dark-Fussion)](https://replit.com/@AkshatKumar6/DarkFussion-String#main.py)
 
-Made with 💕 by [@Akki_ThePro](https://t.me/Akki_ThePro) and [@Red_wrap](https://t.me/red_wrap) <br />
+Made with 💕 by [@Akki_ThePro](https://t.me/Akki_ThePro) and [@Red_warp](https://t.me/red_warp) <br />
 
 # License
 DarkFussion is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
