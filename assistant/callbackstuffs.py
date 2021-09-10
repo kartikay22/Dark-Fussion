@@ -18,7 +18,7 @@ from . import *
 
 # --------------------------------------------------------------------#
 telegraph = Telegraph()
-r = telegraph.create_account(short_name="Ultroid")
+r = telegraph.create_account(short_name="Đ₳Ɽ₭ Ƒմʂʂìօղ")
 auth_url = r["auth_url"]
 # --------------------------------------------------------------------#
 
@@ -116,7 +116,7 @@ async def update(eve):
             repo.__del__()
             return
         await eve.edit(
-            "`Userbot dyno build in progress, please wait for it to complete.`"
+            "`Đ₳Ɽ₭ Ƒմʂʂìօղ dyno build in progress, please wait for it to complete.`"
         )
         ups_rem.fetch(ac_br)
         repo.git.reset("--hard", "FETCH_HEAD")
@@ -134,10 +134,10 @@ async def update(eve):
             await eve.edit(f"`Here is the error log:\n{error}`")
             repo.__del__()
             return
-        await eve.edit("`Successfully Updated!\nRestarting, please wait...`")
+        await eve.edit("`Successfully Updated sur!\nRestarting, please wait...`")
     else:
         await eve.edit(
-            "`Userbot dyno build in progress, please wait for it to complete.`"
+            "`Đ₳Ɽ₭ Ƒմʂʂìօղ dyno build in progress, please wait for it to complete.`"
         )
         try:
             ups_rem.pull(ac_br)
@@ -145,7 +145,7 @@ async def update(eve):
             repo.git.reset("--hard", "FETCH_HEAD")
         await updateme_requirements()
         await eve.edit(
-            "`Successfully Updated!\nBot is restarting... Wait for a second!`"
+            "`Successfully Updated sur!\nBot is restarting... Wait for a second!`"
         )
         execl(sys.executable, sys.executable, "-m", "pyUltroid")
 
@@ -160,14 +160,14 @@ async def changes(okk):
     if len(changelog_str) > 1024:
         await okk.edit(get_string("upd_4"))
         await asyncio.sleep(2)
-        with open(f"ultroid_updates.txt", "w+") as file:
+        with open(f"Đ₳Ɽ₭ Ƒմʂʂìօղ.txt", "w+") as file:
             file.write(tl_chnglog)
         await okk.edit(
             get_string("upd_5"),
-            file="ultroid_updates.txt",
+            file="Đ₳Ɽ₭ Ƒմʂʂìօղ.txt",
             buttons=Button.inline("Update Now", data="updatenow"),
         )
-        remove(f"ultroid_updates.txt")
+        remove(f"Đ₳Ɽ₭ Ƒմʂʂìօղ.txt")
         return
     else:
         await okk.edit(
@@ -227,7 +227,7 @@ async def _(e):
     token_file_data = f.read()
     udB.set("GDRIVE_TOKEN", token_file_data)
     await e.reply(
-        "`Success!\nYou are all set to use Google Drive with Ultroid Userbot.`",
+        "`Success!\nYou are all set to use Google Drive with Đ₳Ɽ₭ Ƒմʂʂìօղ.`",
         buttons=Button.inline("Main Menu", data="setter"),
     )
 
@@ -316,7 +316,7 @@ async def _(e):
 @owner
 async def otvaar(event):
     await event.edit(
-        "Other Variables to set for @TheUltroid:",
+        "Other Variables to set for @DarkFussion:",
         buttons=[
             [
                 Button.inline("Tᴀɢ Lᴏɢɢᴇʀ", data="taglog"),
@@ -379,7 +379,7 @@ async def pluginch(event):
     name = "Plugin Channel"
     async with event.client.conversation(pru) as conv:
         await conv.send_message(
-            "Send id or username of a channel from where u want to install all plugins\n\nOur Channel~ @ultroidplugins\n\nUse /cancel to cancel.",
+            "Send id or username of a channel from where u want to install all plugins\n\nOur Channel~ @DarkFussion\n\nUse /cancel to cancel.",
         )
         response = conv.wait_event(events.NewMessage(chats=pru))
         response = await response
@@ -1030,7 +1030,7 @@ async def pmofff(event):
 @owner
 async def chbot(event):
     await event.edit(
-        f"From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/UltroidUpdates/2)",
+        f"From This Feature U can chat with ppls Via ur Assistant Bot.\n[More info](https://t.me/DarkFussion)",
         buttons=[
             [Button.inline("Cʜᴀᴛ Bᴏᴛ  Oɴ", data="onchbot")],
             [Button.inline("Cʜᴀᴛ Bᴏᴛ  Oғғ", data="ofchbot")],
@@ -1097,7 +1097,7 @@ async def chon(event):
 @owner
 async def vcb(event):
     await event.edit(
-        f"From This Feature U can play songs in group voice chat\n\n[moreinfo](https://t.me/UltroidUpdates/4)",
+        f"From This Feature U can play songs in group voice chat\n\n[moreinfo](https://t.me/DarkFussion)",
         buttons=[
             [Button.inline("VC Sᴇssɪᴏɴ", data="vcs")],
             [Button.inline("« Bᴀᴄᴋ", data="setter")],
