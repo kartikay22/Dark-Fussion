@@ -34,9 +34,6 @@
 - [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DarkFussion)
 - [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DarkFussion_Chat)
 
-# Documentation 
-[![Documentation](https://img.shields.io/badge/Documentation-Eletvps-blue)](http://t.me/EletvpsGithubUpdates)
-
 ## YouTube 📺
 - [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxNJXtYNaIIQTg3_TBhge2A?style=social)](https://www.youtube.com/results?search_query=Akki+ThePro047)
 - Tutorial to get Redis URL and password - [here.](./resources/extras/redistut.md)
