@@ -10,12 +10,7 @@ import os
 from time import sleep
 
 a = r"""
-  _    _ _ _             _     _
- | |  | | | |           (_)   | |
- | |  | | | |_ _ __ ___  _  __| |
- | |  | | | __| '__/ _ \| |/ _  |
- | |__| | | |_| | | (_) | | (_| |
-  \____/|_|\__|_|  \___/|_|\__,_|
+DarkFussion UserBot//By - @DarkFussion
 """
 
 
