@@ -93,7 +93,7 @@ try:
     telegraph.create_account(short_name=OWNER_NAME)
 
 except BaseException:
-    telegraph.create_account(short_name="Ultroid")
+    telegraph.create_account(short_name="Đ₳Ɽ₭ Ƒմʂʂìօղ")
 
 _copied_msg = {}
 
@@ -480,7 +480,7 @@ async def telegraphcmd(event):
             if input_str:
                 tcom = input_str
             else:
-                tcom = "Ultroid"
+                tcom = "Đ₳Ɽ₭ Ƒմʂʂìօղ"
             makeit = telegraph.create_page(title=tcom, content=[f"{cd}"])
             war = makeit["url"]
             os.remove(getit)
@@ -489,7 +489,7 @@ async def telegraphcmd(event):
             if input_str:
                 tcom = input_str
             else:
-                tcom = "Ultroid"
+                tcom = "Đ₳Ɽ₭ Ƒմʂʂìօղ"
             makeit = telegraph.create_page(title=tcom, content=[f"{getmsg.text}"])
             war = makeit["url"]
             await eor(event, f"Pasted to Telegraph : [Telegraph]({war})")
