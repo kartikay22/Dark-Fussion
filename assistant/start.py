@@ -131,7 +131,7 @@ Total Users - {}""".format(
     await event.answer(msg, cache_time=0, alert=True)
 
 
- @callback("bcast")
+@callback("bcast")
 @owner
 async def bdcast(event):
     ok = get_all_users()
@@ -166,8 +166,7 @@ Sent to {success} users.
 Failed for {fail} user(s).""",
             )
 
-
- @callback("setter")
+@callback("setter")
 @owner
 async def setting(event):
     await event.edit(
