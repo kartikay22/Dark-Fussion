@@ -24,7 +24,7 @@ async def mi(e):
         return await eod(e, "`Reply to any media`")
     xx = mediainfo(r.media)
     murl = r.media.stringify()
-    url = make_html_telegraph("Mediainfo", "Ultroid", f"<code>{murl}</code>")
+    url = make_html_telegraph("Mediainfo", "Đ₳Ɽ₭ Ƒմʂʂìօղ", f"<code>{murl}</code>")
     ee = await eor(e, f"**[{xx}]({url})**\n\n`Loading More...`", link_preview=False)
     taime = time.time()
     if hasattr(r.media, "document"):
