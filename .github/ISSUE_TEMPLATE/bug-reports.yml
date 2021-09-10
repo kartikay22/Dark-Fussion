@@ -3,10 +3,8 @@ description: File a bug report
 title: "[BUG REPORT]: "
 labels: [bug]
 assignees:
-  - xditya
-  - New-dev0
-  - buddhhu
-  - 1Danish-00
+  - ཞ𝔼𝔻 𝕎𝔸ℝℙ
+  - Akki ThePro047
 body:
   - type: markdown
     attributes:
