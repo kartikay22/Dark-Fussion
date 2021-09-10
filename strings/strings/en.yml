@@ -47,7 +47,7 @@ afk_7: "Currently AFK with reason {}"
 afk_8: "Currently AFK."
 
 # bot
-alive_1: "**Đ₳Ɽ₭ Ƒմʂʂìօղ**\n\n**{}**\n\n**Ⲃⲟⲧ Ⲓⲛϝⲟʀⲙⲁⲧⲓⲟⲛ**\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Owner**: `{}`\n┣ **Version**: `{}`\n┣ **𝚄pTime**: `{}`\n┣ **Python**: `{}`\n┣ **Telethon**: `{}`\n┣ **Branch**: `{}`\n┗━━━━━━━━━━━━━━━━━━━━━\n\nPowered by ~ [**👨‍💻🄳🄰🅁🄺 🄵🅄🅂🅂🄸🄾🄽**](https://t.me/DarkFussion)"
+alive_1: "**𝐃𝐚𝐫𝐤 𝐅𝐮𝐬𝐬𝐢𝐨𝐧 𝐔𝐬𝐞𝐫𝐛𝐨�**\n**{}**\n\n**Ⲃⲟⲧ Ⲓⲛϝⲟʀⲙⲁⲧⲓⲟⲛ**\n┏━━━━━━━━━━━━━━━━━━━━━\n┣ **Owner**: `{}`\n┣ **Version**: `{}`\n┣ **𝚄pTime**: `{}`\n┣ **Python**: `{}`\n┣ **Telethon**: `{}`\n┣ **Branch**: `{}`\n┗━━━━━━━━━━━━━━━━━━━━━\n\nPowered by ~ [**👨‍💻🄳🄰🅁🄺 🄵🅄🅂🅂🄸🄾🄽**](https://t.me/DarkFussion)"
 log: "**Heroku** Đ₳Ɽ₭ Ƒմʂʂìօղ Logs.\nPasted [here]({}) too!"
 ping: "**Pong..!** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
@@ -118,7 +118,7 @@ sf_14: "SuperFBan Completed.\nTotal Feds - {}.\nExcluded - {}.\n Affected {} fed
 sf_15: "Starting a Mass-UnFedBan..."
 sf_16: "SuperUnFBan Completed.\nTotal Feds - {}.\nExcluded - {}.\n Affected {} feds.\n#TB"
 sf_17: "`Give me someones id, or reply to somones message to check his/her fedstat.`"
-sf_18: "List of feds {} has been banned in.\n\nCollected using Ultroid."
+sf_18: "List of feds {} has been banned in.\n\nCollected using Đ₳Ɽ₭ Ƒմʂʂìօղ ."
 sf_19: "**Error**\n `Unblock` @MissRose_Bot `and try again!"
 sf_20: "`Extracting information...`"
 sf_21: "\n\nFedInfo Extracted by Đ₳Ɽ₭ Ƒմʂʂìօղ"
