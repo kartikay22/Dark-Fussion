@@ -120,7 +120,7 @@ async def ultroid(event):
     )
 
 
-@callback("stat")
+ @callback("stat")
 @owner
 async def botstat(event):
     ok = len(get_all_users())
