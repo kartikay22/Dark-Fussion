@@ -7,12 +7,7 @@
 
 clear
 echo -e "\e[1m"
-echo "  _    _ _ _             _     _ "
-echo " | |  | | | |           (_)   | |"
-echo " | |  | | | |_ _ __ ___  _  __| |"  
-echo " | |  | | | __| '__/ _ \| |/ _  |"
-echo " | |__| | | |_| | | (_) | | (_| |"
-echo "  \____/|_|\__|_|  \___/|_|\__,_|"
+echo " DarkFussion UserBot.. By - @DarkFussion"
 echo -e "\e[0m"
 sec=5
 spinner=(⣻ ⢿ ⡿ ⣟ ⣯ ⣷)
