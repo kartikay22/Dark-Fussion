@@ -7,7 +7,7 @@
 
 clear
 echo -e "\e[1m"
-echo "DarkFussion UserBot.. By - @DarkFussion"
+echo " DarkFussion UserBot.. By - @DarkFussion"
 echo -e "\e[0m"
 sec=5
 spinner=(⣻ ⢿ ⡿ ⣟ ⣯ ⣷)
