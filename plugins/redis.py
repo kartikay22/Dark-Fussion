@@ -15,7 +15,7 @@
     Redis Set Value.
     e.g :
     `{i}setredis hi there`
-    `{i}setredis hi there | ultroid here`
+    `{i}setredis hi there | Đ₳Ɽ₭ Ƒմʂʂìօղ here`
 
 • `{i}delredis key`
     Delete Key from Redis DB
