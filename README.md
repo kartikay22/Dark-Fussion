@@ -47,20 +47,21 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 
  
 ## Necessary Variables
+```
 - `API_ID` - Your API_ID from [my.telegram.org](https://my.telegram.org/)
 - `API_HASH` - Your API_HASH from [my.telegram.org](https://my.telegram.org/)
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 - `REDIS_URI` - Redis endpoint URL, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
 - `REDIS_PASSWORD ` - Redis endpoint Password, from [redislabs](http://redislabs.com/), tutorial [here.](./resources/extras/redistut.md)
-
+```
 ## Session String
 `SESSION`:
-* [![Run on Repl.it](https://replit.com/badge/github/TeamHumanoid/Humanoid)](https://replit.com/@Noob-Stranger/HumanoidStringSession#main.py)
+* [![Run on Repl.it](https://replit.com/badge/github/TeamFussion/Dark-Fussion)](https://replit.com/@AkshatKumar6/DarkFussion-String#main.py)
 
-Made with 💕 by [@TheEletvps](https://t.me/TheEletvps). <br />
+Made with 💕 by [@Akki_ThePro](https://t.me/Akki_ThePro) and [@Red_wrap](https://t.me/red_wrap) <br />
 
 # License
-Eletvps is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
+DarkFussion is licensed under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) v3 or later.
 
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)
 
